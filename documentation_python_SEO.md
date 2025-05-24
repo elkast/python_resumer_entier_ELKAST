@@ -795,7 +795,7 @@ Essaie de visualiser la boucle comme un tour de manège : tu fais le tour tant q
 
 
 
-## ########################################################## sujet de finn de section sur les boucles #################################################################
+## sujet de finn de section sur les boucles 
 
 
  **sujet complet** qui permet de mettre en pratique tout ce qui a été vu sur les fonctions, les boucles, les types de données, les variables globales et locales, les arguments variables, etc. Ce sujet est idéal pour un projet de niveau débutant à intermédiaire en Python, adapté à des étudiants de L2 SEA ou tout autre niveau équivalent.
@@ -859,11 +859,6 @@ Ce sujet te permettra de :
 - **Mettre en œuvre des fonctions imbriquées, lambda, récursives, génératrices**
 - **Utiliser des boucles `for` et `while`**
 - **Afficher, rechercher, trier et calculer des statistiques**
-
-## correction
-
-
-## ####################################################################################fin du sujet
 
 
 # Une Fonctions en python c est quoi ? 
@@ -1193,11 +1188,6 @@ Ce sujet te permettra de :
 - **Utiliser tous les types de paramètres et d’arguments**
 - **Mettre en œuvre des fonctions imbriquées, lambda, récursives, génératrices**
 - **Afficher, rechercher, trier et calculer des statistiques**
-
-# correction
-
-## ########################################################################### fin sujet#############################################################################
- 
 
 
 # NOTE ELKAST SUR LA PROGRESSION
