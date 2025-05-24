@@ -1,4 +1,4 @@
-## ######################################################################## Documentation Python pour étudiants TOUT NIVEAU ##################################################################
+## Documentation Python pour étudiants TOUT NIVEAU 
 
 
 # Présentation du document
@@ -78,7 +78,8 @@ Quiz sur les affectations et opérations
 Sujet de projet complet (ex : gestionnaire d’élèves)
 
 
-## #####################################################################################################################################################################################################################################################################################################################################################3####################
+## introduction
+
 1. Introduction à Python
 Python est un langage de programmation puissant, facile à apprendre, idéal pour l’analyse de données et la visualisation. Il est utilisé dans de nombreux domaines, notamment en économie pour traiter des données, automatiser des calculs et produire des graphiques.
 
@@ -611,7 +612,7 @@ D) Ensemble
 9. **C**  
 10. **D**
 
-## ################################################################################# fin du quiz #########################################################################
+## fin du quiz 
 
 
 # Les boucles en Python 
@@ -795,11 +796,10 @@ Essaie de visualiser la boucle comme un tour de manège : tu fais le tour tant q
 
 
 ## ########################################################## sujet de finn de section sur les boucles #################################################################
-__
 
-Bien sûr ! Voici un **sujet complet et bien rodé** qui permet de mettre en pratique tout ce qui a été vu sur les fonctions, les boucles, les types de données, les variables globales et locales, les arguments variables, etc. Ce sujet est idéal pour un projet de niveau débutant à intermédiaire en Python, adapté à des étudiants de L2 SEA ou tout autre niveau équivalent.
 
----
+ **sujet complet** qui permet de mettre en pratique tout ce qui a été vu sur les fonctions, les boucles, les types de données, les variables globales et locales, les arguments variables, etc. Ce sujet est idéal pour un projet de niveau débutant à intermédiaire en Python, adapté à des étudiants de L2 SEA ou tout autre niveau équivalent.
+
 
 # **Sujet : Gestionnaire d’élèves et de notes**
 
@@ -807,7 +807,6 @@ Bien sûr ! Voici un **sujet complet et bien rodé** qui permet de mettre en pra
 
 Créer un programme qui permet de gérer une liste d’élèves, d’ajouter des informations (nom, âge, notes), de calculer des statistiques, d’afficher des résultats, et d’explorer toutes les notions vues sur les fonctions, les boucles, les variables et les collections de données.
 
----
 
 ## **Consignes détaillées**
 
